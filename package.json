@@ -1,0 +1,23 @@
+{
+	"name": "smbhash",
+	"version": "0.0.1",
+	"dependencies": {
+		"bigdecimal": ">= 0.6.0"
+	},
+	"devDependencies": {
+		"nodeunit": "*"
+	},
+	"author": {
+		"name": "Joshua M. Clulow",
+		"email": "josh@sysmgr.org",
+		"url": "http://blog.sysmgr.org"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/jclulow/node-smbhash"
+	},
+	"engines": [ "node" ],
+	"main": "lib/smbhash.js",
+	"description": "Samba LM/NT Hash Library",
+	"homepage": "https://github.com/jclulow/node-smbhash"
+}
