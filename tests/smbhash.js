@@ -24,6 +24,9 @@ var GOOD = [
   { password: 'SecREt01',
     lmhash: 'FF3750BCC2B22412C2265B23734E0DAC',
     nthash: 'CD06CA7C7E10C99B1D33B7485A2ED808' },
+  { password: 'longerthanfourteen',
+    lmhash: 'D9D77D9926DDEB881942ED25097AC704',
+    nthash: 'E3C2D68648C27222CB4520BD7783FB87' },
   { password: 'Beeblebrox',
     lmhash: '919016F64EC7B00BA235028CA50C7A03',
     nthash: '8C1B59E32E666DADF175745FAD62C133' }
