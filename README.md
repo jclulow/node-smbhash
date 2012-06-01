@@ -34,3 +34,7 @@ NT Hash: 5FBC3D5FEC8206A30F4B6C473D68AE76
      The NTLM Authentication Protocol and Security Support Provider
      Copyright (C) 2003, 2006 Eric Glass
      http://davenport.sourceforge.net/ntlm.html
+     
+     NTLM Authentication Scheme for HTTP
+     Ronald Tschalaer / 17. June 2003
+     http://www.innovation.ch/personal/ronald/ntlm.html
