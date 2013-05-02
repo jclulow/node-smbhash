@@ -17,5 +17,8 @@
   "engines": [ "node" ],
   "main": "lib/smbhash.js",
   "description": "Samba LM/NT Hash Library",
-  "homepage": "https://github.com/jclulow/node-smbhash"
+  "homepage": "https://github.com/jclulow/node-smbhash",
+  "scripts": {
+    "test": "nodeunit tests/"
+  }
 }
