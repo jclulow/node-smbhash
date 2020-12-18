@@ -1,5 +1,8 @@
 # node-smbhash: Samba LM/NT Hash Library
 
+**DEPRECATION NOTICE: This module is no longer maintained.  It likely contains
+correctness and even security issues that will not be resolved.**
+
 ## Introduction
 
 This library converts passwords into the LAN Manager (LM) and
